@@ -78,9 +78,8 @@ config/private/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# 数据文件（可选择性忽略）
-# 注意：根据项目需要决定是否忽略CSV文件
-# *.csv
+# 中文文件夹（避免编码问题）
+小红书文案/
 
 # 输出文件
 output/
